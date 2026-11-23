@@ -1,81 +1,173 @@
-<h1 align="center">Hi, I'm Lelethu Sanda Moyo 👋</h1>
+<div align="center">
 
-<h3 align="center">Computing Student | Aspiring Cybersecurity Professional</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0D1117&text=LELETHU%20SANDA%20MOYO&fontColor=B57AFF&fontSize=40&fontAlign=50&fontAlignY=40&desc=CYBERSECURITY%20%7C%20COMPUTING%20%7C%20SOC%20OPERATIONS&descAlign=50&descAlignY=65&descSize=16" width="100%" />
 
-<p align="center">
-  Interested in cybersecurity, information security, and building
-  practical skills to understand, detect, and defend against cyber threats.
-</p>
+<br>
+
+### `Aspiring Cybersecurity Professional | BSc Computing`
+
+*Understanding attacks. Building defenses. Bridging both worlds.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-9B72CF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lelethu-moyo)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-9B72CF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SandurLelez)
+[![LetsDefend](https://img.shields.io/badge/LetsDefend-SOC_Training-9B72CF?style=for-the-badge&logo=shield&logoColor=white)](https://app.letsdefend.io/user/Sandur)
+
+</div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-- 🎓 BSc Computing student at the University of South Africa (UNISA)
+I'm a BSc Computing student at the **University of South Africa (UNISA)** developing my skills in cybersecurity, system administration, and programming.
+
+My interest lies in understanding how systems are attacked, how threats are detected, and how organisations can improve their security posture.
+
+- 🎓 BSc Computing student at UNISA
 - 🔐 Interested in cybersecurity and information security
-- 🛡️ Exploring security operations, threat detection, and incident response
-- 💻 Experienced with Python, C++, Linux, and Windows environments
-- 🎯 Long-term goal: Grow into a Purple Team professional, bridging offensive and defensive security
+- 🛡️ Learning Security Operations Centre (SOC) analysis
+- 🔎 Exploring threat detection, vulnerability assessment & incident response
+- 💻 Building technical skills through labs, projects & self-study
+- 🎯 Long-term goal: **Purple Team operations**, bridging offensive and defensive security
 
 ---
 
-## Technical Skills
+## 🛠️ Tech Stack
 
-| Category | Technologies |
-|---|---|
-| Programming | Python, C++ |
-| Operating Systems | Windows, Linux (Ubuntu/Kali) |
-| Networking | Networking fundamentals |
-| Databases | SQL |
-| Tools | Git, GitHub |
+<div align="center">
 
----
+### Languages
 
-## Cybersecurity Interests
+<img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" />
 
-- Security Operations (SOC)
-- Threat Detection & Incident Response
-- Vulnerability Assessment
-- Penetration Testing
-- Red Team & Blue Team Operations
-- Purple Teaming
-- Security Automation
+### Operating Systems
+
+<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali&theme=dark" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,mysql,vscode&theme=dark" />
+
+</div>
 
 ---
 
-## Currently Learning
+## 🔐 Cybersecurity Focus
 
-- Security Operations and SOC Analysis
-- Cybersecurity Fundamentals
-- Network Security
-- Incident Investigation
-- Linux Security
+<div align="center">
+
+| 🛡️ Defensive Security | ⚔️ Offensive Security | 🔄 Purple Team |
+|:---:|:---:|:---:|
+| SOC Operations | Penetration Testing Fundamentals | Attack & Defense |
+| Threat Detection | Vulnerability Assessment | Detection Engineering |
+| Incident Response | Reconnaissance | Security Improvement |
+| Log Analysis | Security Testing | Adversary Simulation |
+
+</div>
+
+---
+
+## 🧠 Currently Learning
+
+<div align="center">
+
+![SOC](https://img.shields.io/badge/SOC_Analysis-Learning-6F42C1?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-Security-6F42C1?style=flat-square)
+![Networking](https://img.shields.io/badge/Networking-Fundamentals-6F42C1?style=flat-square)
+![SIEM](https://img.shields.io/badge/SIEM-Log_Analysis-6F42C1?style=flat-square)
+![Incident Response](https://img.shields.io/badge/Incident-Response-6F42C1?style=flat-square)
+
+</div>
+
+- Security monitoring & alert investigation
+- Windows event logs
+- Linux system administration & security
+- Network security fundamentals
+- Incident investigation & response
+- Vulnerability analysis
+- Python for security automation
 
 ---
 
-## Projects
+## 🧪 Projects & Labs
 
-*Projects and practical security investigations will be added here as I continue building my portfolio.*
+> Hands-on projects, security investigations, and technical labs will be documented here as I build my cybersecurity portfolio.
+
+<!-- Add projects here as they are completed -->
+
+| Project | Description | Status |
+|---|---|---|
+| 🖥️ SOC Home Lab | Security monitoring & log investigation | 🔄 Planned |
+| 🎣 Phishing Investigation | Email analysis & phishing investigation | 🔄 Planned |
+| 🐍 Python Log Analyzer | Detect suspicious authentication activity | 🔄 Planned |
+| 🌐 Network Traffic Analysis | Investigating network traffic using Wireshark | 🔄 Planned |
+| 🔎 Vulnerability Assessment | Lab-based vulnerability identification & reporting | 🔄 Planned |
+| 🐟 SnoekPhish | Open-source phishing detection project contribution | 🔄 Ongoing |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SandurLelez&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandurLelez&layout=compact&theme=midnight-purple&hide_border=true" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=SandurLelez&theme=midnight-purple&hide_border=true" />
+
+</div>
 
 ---
 
-## Connect With Me
+## 🎯 Career Roadmap
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/lelethu-moyo">
-    LinkedIn
-  </a>
-  &nbsp;|&nbsp;
-  <a href="https://app.letsdefend.io/user/Sandur">
-    LetsDefend
-  </a>
-  &nbsp;|&nbsp;
-  <a href="mailto:slbjmoyo@gmail.com">
-    Email
-  </a>
-</p>
+```text
+COMPUTING DEGREE
+       │
+       ▼
+CYBERSECURITY FUNDAMENTALS
+       │
+       ▼
+SOC ANALYST / SECURITY ANALYST
+       │
+       ▼
+SECURITY OPERATIONS & INCIDENT RESPONSE
+       │
+       ▼
+RED TEAM + BLUE TEAM EXPERIENCE
+       │
+       ▼
+       PURPLE TEAM 🟣
+```
 
 ---
-<p align="center">
-  <i>Always learning, building, and exploring cybersecurity.</i>
-</p>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/lelethu-moyo">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-9B72CF?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://app.letsdefend.io/user/Sandur">
+<img src="https://img.shields.io/badge/LetsDefend-My_Profile-9B72CF?style=for-the-badge&logo=shield&logoColor=white" />
+</a>
+
+<a href="mailto:slbjmoyo@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-9B72CF?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🟣 *Learn continuously. Investigate deeply. Build practically.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0D1117&text=BUILD%20%7C%20DETECT%20%7C%20DEFEND&fontColor=B57AFF&fontSize=22" width="100%" />
+
+</div>
